@@ -1,5 +1,4 @@
 *.csv
-*.png
 **/__pycache__/*
 *.gz
 venv/*
