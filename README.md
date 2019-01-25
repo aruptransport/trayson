@@ -40,5 +40,5 @@ This tool uses a fantastic julia package from [chkwon](https://github.com/chkwon
 
 # Contributors
 
-Carlin Liao & Mike Iswalt with some input from Michael Byrne and Gerry Casey.
+[Carlin Liao](https://github.com/CarlinLiao) & [Mike Iswalt](https://www.linkedin.com/in/mike-iswalt/) with some input from [Michael Byrne](https://github.com/MichaelByrneAU) and [Gerry Casey](https://github.com/gac55).
 
